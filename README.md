@@ -1,5 +1,7 @@
 # Ghost Trace
 
+![Ghost Trace CLI](screenshot.png)
+
 Professional observability for your AI agent.
 
 Ghost Trace is a lightweight, local-first CLI that intercepts your agent's tool calls and logs them to a SQLite database. No cloud accounts, no API keys, no heavy infrastructure. Just a beautiful trace of what your agent is doing.
