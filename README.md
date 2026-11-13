@@ -38,6 +38,6 @@ This will print a table of all recent tool calls, including errors and execution
 MIT
 ---
 
-### 🛠️ Ready-to-use Agent Skills
+### Ready-to-use Agent Skills
 Tracing is step one. To find out exactly *how much money* those redundant traces are costing you, use the **Agent Cost Auditor** skill on Agensi. It reads your `ghost-tracer` logs and gives you a dollar estimate of wasted tokens.
-👉 **[Get Agent Cost Auditor on Agensi](https://www.agensi.io/r/CONTEXTBRIDGE?to=/skills/agent-cost-auditor)**
+> **[Get Agent Cost Auditor on Agensi](https://www.agensi.io/r/CONTEXTBRIDGE?to=/skills/agent-cost-auditor)**
